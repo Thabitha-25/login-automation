@@ -27,3 +27,8 @@ test-output/
 # Logs and compiled class files
 *.log
 *.class
+
+# Selenium drivers folder
+drivers/
+*.exe
+
