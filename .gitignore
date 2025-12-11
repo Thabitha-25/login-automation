@@ -29,6 +29,6 @@ test-output/
 *.class
 
 # Selenium drivers folder
-drivers/
+# drivers/
 *.exe
 
